@@ -1,0 +1,15 @@
+Sample,GeneA,GeneB,GeneC,GeneD,Class
+1,1,1,1,0,normal
+2,1,1,1,1,normal
+3,0,1,1,0,tumor
+4,-1,0,1,0,tumor
+5,-1,-1,0,0,tumor
+6,-1,-1,0,1,normal
+7,0,-1,0,1,tumor
+8,1,0,1,0,normal
+9,1,-1,0,0,tumor
+10,-1,0,0,0,tumor
+11,1,0,0,1,tumor
+12,0,0,1,1,tumor
+13,0,1,0,0,tumor
+14,-1,0,1,1,normal
